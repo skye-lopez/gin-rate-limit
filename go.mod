@@ -1,4 +1,4 @@
-module github.com/skye-lopez/gin-rate-limit
+module github.com/skye-lopez/go-rate-limiter
 
 go 1.23.0
 
